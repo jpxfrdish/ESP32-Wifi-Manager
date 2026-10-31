@@ -5,7 +5,6 @@
 
 - **Name:** Ivan Lindel A. Hayahay
 - **Course & Year:** BS Computer Applications - 3rd Year
-- **Assigned Number:** 07
 - **Board Used:** ESP32-S3 
 - **Arduino IDE:** Arduino IDE
 
